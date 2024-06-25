@@ -1,0 +1,990 @@
+
+    {
+        "productItem": [
+            {
+                "type": "Product Offer",
+                "businessId": "PO_001818",
+                "id": "57c11d35-cbb1-44c4-882e-eabd72d6bb5d",
+                "name": "SwiftBroadband",
+                "productItem": [
+                    {
+                        "type": "Product Specification",
+                        "id": "ID_Mig_BSS7099086_461171717275326068",
+                        "productItem": [
+                            {
+                                "type": "Product Specification",
+                                "id": "ID_Mig_BSS7099086_214171717275400502",
+                                "characteristic": [
+                                    {
+                                        "name": "CLE Name",
+                                        "value": "ARINC INC."
+                                    },
+                                    {
+                                        "name": "Level 2 Network Subgroup",
+                                        "value": "400010000008297"
+                                    },
+                                    {
+                                        "name": "Modify Order Type",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Market/BU",
+                                        "value": "Aviation"
+                                    },
+                                    {
+                                        "name": "Level 1 Name",
+                                        "value": "DP3034 - AVI - ARINC Inc."
+                                    },
+                                    {
+                                        "name": "Destination Folder Name",
+                                        "value": "ARINC Direct Test"
+                                    },
+                                    {
+                                        "name": "Level 1 ID",
+                                        "value": "F-0000034068"
+                                    },
+                                    {
+                                        "name": "Distribution Channel",
+                                        "value": "Indirect"
+                                    },
+                                    {
+                                        "name": "Level 1 Network Group",
+                                        "value": "300010000023173"
+                                    },
+                                    {
+                                        "name": "SLE Name",
+                                        "value": "Inmarsat Global Limited"
+                                    },
+                                    {
+                                        "name": "Level 2 Name",
+                                        "value": "ARINC Direct"
+                                    },
+                                    {
+                                        "name": "Destination Folder Market Sector",
+                                        "value": "Business Aviation"
+                                    },
+                                    {
+                                        "name": "Destination Folder SOA Product",
+                                        "value": "SwiftBroadband"
+                                    },
+                                    {
+                                        "name": "Commercial Order Type",
+                                        "value": "Acquisition"
+                                    },
+                                    {
+                                        "name": "Destination Folder ID",
+                                        "value": "FN-0000002729"
+                                    },
+                                    {
+                                        "name": "Level 2 ID",
+                                        "value": "FO-0000008297"
+                                    },
+                                    {
+                                        "name": "Contract ID",
+                                        "value": "17-7847"
+                                    },
+                                    {
+                                        "name": "Billing Account ID",
+                                        "value": "10345"
+                                    },
+                                    {
+                                        "name": "Billing Account Name",
+                                        "value": "ARINC INC."
+                                    },
+                                    {
+                                        "name": "Level 1 Logical Resource Owner ID",
+                                        "value": "3034"
+                                    },
+                                    {
+                                        "name": "Destination Folder Sub Distribution Channel",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "CLE ID",
+                                        "value": "153842"
+                                    },
+                                    {
+                                        "name": "Site ID",
+                                        "value": "81807"
+                                    },
+                                    {
+                                        "name": "Site Name",
+                                        "value": "N 104XA"
+                                    }
+                                ],
+                                "status": "Active",
+                                "subStatus": "Added",
+                                "version": "1.0",
+                                "name": "Order Details",
+                                "businessId": "PS_000133",
+                                "parentId": "ID_Mig_BSS7099086_461171717275326068"
+                            },
+                            {
+                                "type": "Product Specification",
+                                "id": "ID_Mig_BSS7099086_554171717276838563",
+                                "characteristic": [
+                                    {
+                                        "name": "Data Allowance Unit",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "SCAP ID",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Pooling",
+                                        "value": "N"
+                                    },
+                                    {
+                                        "name": "Inclusive Voice Allowance",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "One Off Charge",
+                                        "value": "0"
+                                    },
+                                    {
+                                        "name": "Inclusive SMS Allowance",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Package Group",
+                                        "value": "SB Demo Airtime"
+                                    },
+                                    {
+                                        "name": "Voice Allowance Unit",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Inclusive Data Allowance",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Subscription Plan Type",
+                                        "value": "DEMO"
+                                    },
+                                    {
+                                        "name": "Subscription Plan Name",
+                                        "value": "SB Demo Airtime Plan"
+                                    },
+                                    {
+                                        "name": "Minimum_Subscription_Period",
+                                        "value": "1"
+                                    },
+                                    {
+                                        "name": "Minimum Subscription Period Unit",
+                                        "value": "Monthly"
+                                    },
+                                    {
+                                        "name": "Inclusive Money Allowance",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Activation Start Date",
+                                        "value": "2021-02-11T00:00:00.000Z"
+                                    },
+                                    {
+                                        "name": "Site Category",
+                                        "value": "Air"
+                                    },
+                                    {
+                                        "name": "Subscription Period End Date",
+                                        "value": "2020-03-10T23:59:59.000Z"
+                                    },
+                                    {
+                                        "name": "Requested Termination Date",
+                                        "value": "2024-06-30"
+                                    },
+                                    {
+                                        "name": "SCAP Type",
+                                        "value": "Not Applicable"
+                                    }
+                                ],
+                                "productItem": [
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_860171717282005829",
+                                        "characteristic": [
+                                            {
+                                                "name": "Voice Service Type",
+                                                "value": "Primary"
+                                            },
+                                            {
+                                                "name": "ICCID",
+                                                "value": "898709910415106325"
+                                            },
+                                            {
+                                                "name": "IMSI Service Type",
+                                                "value": "BGAN M2M Land Services"
+                                            },
+                                            {
+                                                "name": "COLR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "Number Type",
+                                                "value": "Inmarsat"
+                                            },
+                                            {
+                                                "name": "SOCLIR",
+                                                "value": "2"
+                                            },
+                                            {
+                                                "name": "COLP",
+                                                "value": "1"
+                                            },
+                                            {
+                                                "name": "SOCLIP",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "IMSI Allocation",
+                                                "value": "Manual"
+                                            },
+                                            {
+                                                "name": "Phone Number",
+                                                "value": "+870774971501"
+                                            },
+                                            {
+                                                "name": "CLIR",
+                                                "value": "1"
+                                            },
+                                            {
+                                                "name": "CLIP",
+                                                "value": "1"
+                                            },
+                                            {
+                                                "name": "OBI",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "SOCOLP",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "IMSI",
+                                                "value": "901112115106325"
+                                            },
+                                            {
+                                                "name": "OBO",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "OBR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "Phone Number Allocation",
+                                                "value": "Auto: Next Available Number"
+                                            },
+                                            {
+                                                "name": "Billing Service Type",
+                                                "value": "Primary"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN SIM",
+                                        "businessId": "PS_001618",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_308171717283561849",
+                                        "characteristic": [
+                                            {
+                                                "name": "BAIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "SMS_TSMO",
+                                                "value": "1"
+                                            },
+                                            {
+                                                "name": "BIC_ROAM",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BAOC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC_exHC",
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN SMS",
+                                        "businessId": "PS_001623",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_324171717291118154",
+                                        "characteristic": [
+                                            {
+                                                "name": "VPLMN",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "QOS",
+                                                "value": "64"
+                                            },
+                                            {
+                                                "name": "PDP_PROFILE",
+                                                "value": "8"
+                                            },
+                                            {
+                                                "name": "APN",
+                                                "value": "gogo.bgan.inmarsat.com"
+                                            },
+                                            {
+                                                "name": "PDP_BEHAVIOUR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "APN_ID",
+                                                "value": "2156"
+                                            },
+                                            {
+                                                "name": "PDP-TYPE_Selection",
+                                                "value": "IPV4"
+                                            },
+                                            {
+                                                "name": "QOS Name",
+                                                "value": "Streaming Symmetrical BGAN HDR"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Packet Data",
+                                        "businessId": "PS_001633",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_266171717291114827",
+                                        "characteristic": [
+                                            {
+                                                "name": "VPLMN",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "QOS",
+                                                "value": "64"
+                                            },
+                                            {
+                                                "name": "PDP_PROFILE",
+                                                "value": "8"
+                                            },
+                                            {
+                                                "name": "APN",
+                                                "value": "bgan-aus.inmarsat.com"
+                                            },
+                                            {
+                                                "name": "PDP_BEHAVIOUR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "APN_ID",
+                                                "value": "1006"
+                                            },
+                                            {
+                                                "name": "PDP-TYPE_Selection",
+                                                "value": "IPV4"
+                                            },
+                                            {
+                                                "name": "QOS Name",
+                                                "value": "Streaming Symmetrical BGAN HDR"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Packet Data",
+                                        "businessId": "PS_001633",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_1000171717291114832",
+                                        "characteristic": [
+                                            {
+                                                "name": "VPLMN",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "QOS",
+                                                "value": "64"
+                                            },
+                                            {
+                                                "name": "PDP_PROFILE",
+                                                "value": "8"
+                                            },
+                                            {
+                                                "name": "APN",
+                                                "value": "arinc01.sbb.inmarsat.com"
+                                            },
+                                            {
+                                                "name": "PDP_BEHAVIOUR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "APN_ID",
+                                                "value": "2072"
+                                            },
+                                            {
+                                                "name": "PDP-TYPE_Selection",
+                                                "value": "IPV4"
+                                            },
+                                            {
+                                                "name": "QOS Name",
+                                                "value": "Streaming Symmetrical BGAN HDR"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Packet Data",
+                                        "businessId": "PS_001633",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_604171717291108241",
+                                        "characteristic": [
+                                            {
+                                                "name": "VPLMN",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "QOS",
+                                                "value": "64"
+                                            },
+                                            {
+                                                "name": "PDP_PROFILE",
+                                                "value": "8"
+                                            },
+                                            {
+                                                "name": "APN",
+                                                "value": "bgan-chi.inmarsat.com"
+                                            },
+                                            {
+                                                "name": "PDP_BEHAVIOUR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "APN_ID",
+                                                "value": "1004"
+                                            },
+                                            {
+                                                "name": "PDP-TYPE_Selection",
+                                                "value": "IPV4"
+                                            },
+                                            {
+                                                "name": "QOS Name",
+                                                "value": "Streaming Symmetrical BGAN HDR"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Packet Data",
+                                        "businessId": "PS_001633",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_572171717291114830",
+                                        "characteristic": [
+                                            {
+                                                "name": "VPLMN",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "QOS",
+                                                "value": "64"
+                                            },
+                                            {
+                                                "name": "PDP_PROFILE",
+                                                "value": "8"
+                                            },
+                                            {
+                                                "name": "APN",
+                                                "value": "bgan.inmarsat.com"
+                                            },
+                                            {
+                                                "name": "PDP_BEHAVIOUR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "APN_ID",
+                                                "value": "1000"
+                                            },
+                                            {
+                                                "name": "PDP-TYPE_Selection",
+                                                "value": "IPV4"
+                                            },
+                                            {
+                                                "name": "QOS Name",
+                                                "value": "Streaming Symmetrical BGAN HDR"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Packet Data",
+                                        "businessId": "PS_001633",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_513171717291118087",
+                                        "characteristic": [
+                                            {
+                                                "name": "VPLMN",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "QOS",
+                                                "value": "64"
+                                            },
+                                            {
+                                                "name": "PDP_PROFILE",
+                                                "value": "8"
+                                            },
+                                            {
+                                                "name": "APN",
+                                                "value": "bgan-rus.inmarsat.com"
+                                            },
+                                            {
+                                                "name": "PDP_BEHAVIOUR",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "APN_ID",
+                                                "value": "1005"
+                                            },
+                                            {
+                                                "name": "PDP-TYPE_Selection",
+                                                "value": "IPV4"
+                                            },
+                                            {
+                                                "name": "QOS Name",
+                                                "value": "Streaming Symmetrical BGAN HDR"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Packet Data",
+                                        "businessId": "PS_001633",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_801171717294286057",
+                                        "characteristic": [
+                                            {
+                                                "name": "BAOC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFU",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "Voice Service Type",
+                                                "value": "Fax"
+                                            },
+                                            {
+                                                "name": "BAIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BIC_ROAM",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFNRy",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC_exHC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "AMSISDN",
+                                                "value": "+870784056357"
+                                            },
+                                            {
+                                                "name": "CFNRc",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFB",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "Phone Number Allocation",
+                                                "value": "Auto: Next Available Number"
+                                            },
+                                            {
+                                                "name": "Billing Service Type",
+                                                "value": "Fax"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN FAX",
+                                        "businessId": "PS_001667",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_417171717301709323",
+                                        "characteristic": [
+                                            {
+                                                "name": "AMSISDN",
+                                                "value": "+870784059414"
+                                            },
+                                            {
+                                                "name": "BAOC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC_exHC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BAIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BIC_ROAM",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFU",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFB",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFNRy",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFNRc",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "Phone Number Allocation",
+                                                "value": "Auto: Next Available Number"
+                                            },
+                                            {
+                                                "name": "Voice Service Type",
+                                                "value": "ISDN 56"
+                                            },
+                                            {
+                                                "name": "Billing Service Type",
+                                                "value": "ISDN 56"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN ISDN 56",
+                                        "businessId": "PS_001669",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_991171717305877821",
+                                        "characteristic": [
+                                            {
+                                                "name": "AMSISDN",
+                                                "value": "+870784059498"
+                                            },
+                                            {
+                                                "name": "BAOC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC_exHC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BAIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BIC_ROAM",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFU",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFB",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFNRy",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFNRc",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "Phone Number Allocation",
+                                                "value": "Auto: Next Available Number"
+                                            },
+                                            {
+                                                "name": "Voice Service Type",
+                                                "value": "ISDN 64"
+                                            },
+                                            {
+                                                "name": "Billing Service Type",
+                                                "value": "ISDN 64"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN ISDN 64",
+                                        "businessId": "PS_001671",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_903171717310114873",
+                                        "characteristic": [
+                                            {
+                                                "name": "BAIC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFU",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "BOIC_exHC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFB",
+                                                "value": "1"
+                                            },
+                                            {
+                                                "name": "CFNRy Forwarding Number",
+                                                "value": "00870772001899"
+                                            },
+                                            {
+                                                "name": "BIC_ROAM",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFNRc Forwarding Number",
+                                                "value": "00870772001899"
+                                            },
+                                            {
+                                                "name": "BAOC",
+                                                "value": "0"
+                                            },
+                                            {
+                                                "name": "CFNRy",
+                                                "value": "1"
+                                            },
+                                            {
+                                                "name": "CFNRy No Reply Time",
+                                                "value": "20"
+                                            },
+                                            {
+                                                "name": "CFB Forwarding Number",
+                                                "value": "00870772001899"
+                                            },
+                                            {
+                                                "name": "CFNRc",
+                                                "value": "1"
+                                            },
+                                            {
+                                                "name": "BOIC",
+                                                "value": "0"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN CS Voice",
+                                        "businessId": "PS_001673",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_59171717323496015",
+                                        "characteristic": [
+                                            {
+                                                "name": "PIN",
+                                                "value": "9999"
+                                            },
+                                            {
+                                                "name": "Notify Number",
+                                                "value": "+870774971501"
+                                            }
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Voicemail",
+                                        "businessId": "PS_001699",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_558171717336101954",
+                                        "characteristic": [
+                                            {}
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Early Termination Charge",
+                                        "businessId": "C_TERM_001648",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    },
+                                    {
+                                        "type": "Product Specification",
+                                        "id": "ID_Mig_BSS7099086_79171717336050486",
+                                        "characteristic": [
+                                            {}
+                                        ],
+                                        "status": "Active",
+                                        "subStatus": "Added",
+                                        "version": "1.0",
+                                        "name": "BGAN Single SIM Subscription Charge",
+                                        "businessId": "001635",
+                                        "parentId": "ID_Mig_BSS7099086_554171717276838563"
+                                    }
+                                ],
+                                "status": "Active",
+                                "subStatus": "Added",
+                                "version": "1.0",
+                                "name": "BGAN",
+                                "businessId": "PS_001630",
+                                "parentId": "ID_Mig_BSS7099086_461171717275326068"
+                            },
+                            {
+                                "type": "Product Specification",
+                                "id": "ID_Mig_BSS7099086_105171765796394707",
+                                "characteristic": [
+                                    {
+                                        "name": "Percentage of MRC",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Min Suspension Period (days)",
+                                        "value": "Not Allowed"
+                                    },
+                                    {
+                                        "name": "Max Aggregate Suspension Allowed (days)",
+                                        "value": "Not Allowed"
+                                    },
+                                    {
+                                        "name": "Max Continuous Suspension Period Out-of-Term (days)",
+                                        "value": "Not Allowed"
+                                    },
+                                    {
+                                        "name": "Suspension Extends Min Period",
+                                        "value": "N"
+                                    },
+                                    {
+                                        "name": "Distribution Channel",
+                                        "value": "Indirect"
+                                    },
+                                    {
+                                        "name": "Temporary Deactivation Profile ID",
+                                        "value": "44"
+                                    },
+                                    {
+                                        "name": "Aggregate Suspension Days Remaining",
+                                        "value": "Not Applicable"
+                                    },
+                                    {
+                                        "name": "Max Continuous Suspension Period In-Term (days)",
+                                        "value": "Not Allowed"
+                                    },
+                                    {
+                                        "name": "Temporary Deactivation Type",
+                                        "value": "Not Suspended"
+                                    },
+                                    {
+                                        "name": "Aggregate_Suspension_Period",
+                                        "value": "Commitment Term"
+                                    }
+                                ],
+                                "status": "Active",
+                                "subStatus": "Added",
+                                "version": "1.0",
+                                "name": "Temporary Deactivation Allowance",
+                                "businessId": "PS_000249",
+                                "parentId": "ID_Mig_BSS7099086_461171717275326068"
+                            }
+                        ],
+                        "status": "Active",
+                        "subStatus": "Added",
+                        "version": "1.0",
+                        "name": "BGAN Configuration",
+                        "businessId": "PS_001605",
+                        "parentId": "ID_Mig_BSS7099086_183171717266100979"
+                    }
+                ],
+                "status": "Active",
+                "subStatus": "Added",
+                "version": "1.0",
+                "characteristic": []
+            }
+        ],
+        "siteId": "81807",
+        "id": "ID_Mig_BSS7099086_183171717266100979",
+        "sellingLegalEntity": "2000",
+        "orderId": "BSS7099086",
+        "serviceOrderId": "BSS7099086",
+        "billingAccountId": "10345",
+        "contractId": "17-7847",
+        "lastOrderAction": "Add",
+        "creationDate": "2021-02-11T00:00:00.000Z",
+        "lastModificationDate": "2011-01-24T18:30:00.000Z",
+        "activationDate": "2021-02-11T00:00:00.000Z",
+        "requestedDeliveryDate": "2021-02-11T00:00:00.000Z",
+        "orderCreationDate": "2021-02-11T00:00:00.000Z",
+        "customerId": "153842",
+        "destinationFolderId": "FN-0000002729",
+        "destinationFolderName": "ARINC Direct Test",
+        "siteName": "N 104XA"
+    }
