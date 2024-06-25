@@ -25,10 +25,12 @@ def find_product_items(data, level=0, results=None):
             find_product_items(item, level, results)
     return results
 
-product_items = find_product_items(data)
+def main():
+    product_items = find_product_items(data)
+    for x in product_items:
+        spaces = x[1]
+        print('   '*spaces,x[2],':', x[0])
 
-#print(product_items)
 
-for x in product_items:
-    spaces = x[1]
-    print('   '*spaces,x[2],':', x[0])
+
+main()
