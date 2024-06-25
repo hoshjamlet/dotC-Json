@@ -14,16 +14,15 @@ def find_product_items(data, level=0, results=None):
     
     if isinstance(data, dict):
         for key, value in data.items():
-            print(type(key),type(value))
             if key == 'productItem':
                 for item in value: 
-                    print(item['id'])
-                    results.append((item['id'], level))
+                    #print(item['businessId'])
+                    results.append((item['businessId'], level, 'BusinessId'))
+                    results.append((item['name'], level, 'Name'))
             find_product_items(value, level + 1, results)
     elif isinstance(data, list):
         for item in data:
             find_product_items(item, level, results)
-    
     return results
 
 product_items = find_product_items(data)
@@ -32,4 +31,4 @@ product_items = find_product_items(data)
 
 for x in product_items:
     spaces = x[1]
-    print('  '*spaces, x[0])
+    print('   '*spaces,x[2],':', x[0])
